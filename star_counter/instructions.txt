@@ -1,0 +1,15 @@
+# Star Counter
+
+The data set you'll be working with for this activity contains 50 rows of "review data" used by French and Spanish online learning programs. Columns D through H represent the number of stars each respective program received as feedback. For example, the first row of the data shows that a French program received two out of five stars in Monnie Mccasland's review.
+
+Data stored this way can be difficult to analyze, so you'll be using VBA to convert it to numerical data.
+
+## Instructions
+
+* Create a VBA script that tallies the number of "Full Stars" per row and enters them into the Total column.
+
+* Create two charts: 
+
+  * One to see if there is a relationship between Program Type and Rating (Bar Chart).
+
+  * The other to see if there is a relationship between Date and Rating (Line Graph).
