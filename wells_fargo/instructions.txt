@@ -1,0 +1,21 @@
+## Instructions
+
+* Create code that formats a single sheet first and then, once this has been accomplished successfully, modifying the code to loop through and modify each worksheet within the workbook. Do the following:
+
+  * Extract words before the phrase "\_Wells_Fargo" to figure out the state.
+
+  * Add the state to the first column of each spreadsheet.
+
+  * Convert the headers of each row to simply say the year.
+
+  * Convert the numbers to currency values for all cells.
+
+# Part II
+
+In this second part of the project, you will be combining all of their previous sheets into one massive table on a new sheet.
+
+* Loop through every worksheet and select the state contents.
+
+* Copy the state contents and paste it into the Combined_Data tab.
+
+
