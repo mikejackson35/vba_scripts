@@ -1,0 +1,11 @@
+# Credit Card Checker
+
+Create a summary table based upon a series of values stored within an Excel spreadsheet.
+
+## Instructions
+
+* Create a VBA script that will process the credit card purchases, identifying each of the unique brands listed.
+
+* Create a single pop-up message for each of the Credit Card brands listed by looping through the list.
+
+* Tally the total credit card purchases for each Credit Card brand and add it to the summary table.
