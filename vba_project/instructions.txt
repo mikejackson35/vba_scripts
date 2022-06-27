@@ -1,6 +1,6 @@
 ## Instructions
 
-* NOTE: Practice on 'alphabetical_testing' and then use final script on 'Multiple_year_stock_data'
+* NOTE: actual stock file is too large to download (screen shot) but 'alphabetical_testing' is smaller and works with the script.
 
 
 
